@@ -28,8 +28,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharth-Xenon&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-
----
-[![](https://visitcount.itsvg.in/api?id=Siddharth-Xenon&icon=0&color=12)](https://visitcount.itsvg.in)
+<!--<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Siddharth-Xenon&label=Profile%20Views&color=12&pretty=false" />
+</a>-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
