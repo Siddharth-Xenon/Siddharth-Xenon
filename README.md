@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on [building frontend for Express Article(Blog).](https://github.com/Siddharth-Xenon/ExpressArticle)
 
-- 📫 Reach me **Siddharthsolanki520@gmail.com**
+- 📫 Reach me at **Siddharthsolanki520@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1MhplVb6BAzkYwlKbBZud63bee77K-mRS?usp=sharing](https://drive.google.com/drive/folders/1MhplVb6BAzkYwlKbBZud63bee77K-mRS?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/drive/folders/1MhplVb6BAzkYwlKbBZud63bee77K-mRS?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
