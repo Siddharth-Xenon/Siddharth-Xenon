@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working at [ZuAi as Backend Developer](https://www.zuapp.co/)
 
-- 👯 I’m looking to collaborate on [building frontend for Express Article(Blog).](https://github.com/Siddharth-Xenon/ExpressArticle)
-
 - 📫 Reach me at **Siddharthsolanki520@gmail.com**
 
 - 📄 Know about my experiences: [Resume](https://drive.google.com/drive/folders/1MhplVb6BAzkYwlKbBZud63bee77K-mRS?usp=sharing)
