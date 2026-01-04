@@ -17,7 +17,7 @@
 - 📫 Reach me at **Siddharthsolanki520@gmail.com**.
 
 <p align="center">
-  <a href="https://linkedin.com/in/siddharthsolanki" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="siddharthsolanki"/></a>
+  <a href="https://linkedin.com/in/sidddharthsolanki" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="siddharthsolanki"/></a>
   <!-- <a href="https://www.leetcode.com/sidddharthsolanki" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="sidddharthsolanki"/></a> -->
   <a href="mailto:siddharthsolanki520@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="sidddharthsolanki"/></a>
 </p>
