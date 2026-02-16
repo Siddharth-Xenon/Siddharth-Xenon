@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Siddharth Solanki 👋</h1>
-<h3 align="center">Backend Engineer scaling AI | Agentic Workflows | Distributed Systems</h3>
+<h3 align="center">Generative AI Backend Engineer | Agentic Workflows</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=siddharth-xenon&label=Profile%20views&color=0e75b6&style=flat" alt="siddharth-xenon" />
