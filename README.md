@@ -11,7 +11,7 @@
 
 <br>
 
-- 🔭 I specialize in building **Low-latency Voice AI**, **Agentic Workflows (LangGraph)**, and **Scalable Microservices**.
+- 🔭 I specialize in building **RAGs**, **Agentic Workflows (LangGraph)**, and **Scalable Microservices**.
 - 💼 Previously Architected AI Infrastructure at **[ZuAI](https://www.zuapp.co/)**.
 - 🧠 I’m currently deep-diving into **System Design Patterns** and **LLM Orchestration**.
 - 📫 Reach me at **Siddharthsolanki520@gmail.com**.
