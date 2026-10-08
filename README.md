@@ -12,8 +12,8 @@
 <br>
 
 - 🔭 I specialize in building **RAGs**, **Agentic Workflows (LangGraph)**, and **Scalable Microservices**.
-- 💼 Previously Architected AI Infrastructure at **[ZuAI](https://www.zuapp.co/)**.
-- 🧠 I’m currently deep-diving into **System Design Patterns** and **LLM Orchestration**.
+- 💼 Built RAG AI tutor for EdTech startups serving 1million students**.
+- 🧠 I’m currently deep-diving into **System Design Patterns** and **LLM Evaluation**.
 - 📫 Reach me at **Siddharthsolanki520@gmail.com**.
 
 <p align="center">
